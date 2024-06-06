@@ -23,7 +23,7 @@ export function CarouselWithContent() {
               color="white"
               className="mb-12 opacity-80"
             >
-              Watch the latest action from WWE as 'The Final Boss' The Rock tries to end 'The American Nightmare' Cody Rhodes' decade-long story!
+              Watch the latest action from WWE as 'The Final Boss' The Rock tries to end 'The American Nightmare' Cody Rhodes' story!
             </Typography>
             <div className="flex justify-left gap-2">
               <Button size="lg" color="white " className=" bg-red-600 text-black rounded-full">
