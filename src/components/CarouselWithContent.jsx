@@ -5,7 +5,7 @@ export function CarouselWithContent() {
     <Carousel className=" h-[600px]" loop='true'>
       <div className="relative h-full w-full">
         <img
-          src="/src/assets/Rock.png"
+          src="/public/Rock.png"
           alt="image 1"
           className="h-full w-full object-contain" style={{ objectPosition: '150% 20%' }}
         />
