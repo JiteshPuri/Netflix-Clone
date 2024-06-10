@@ -18,6 +18,10 @@ const Navbar = () => {
         <button className='text-white pr-4'>Sign In</button>
         <button className=' text-white  px-6 py-3  rounded bg-red-600 '>Sign Up</button>
         </div>
+        <img
+          src="/public/Rock.png"
+          alt="image 1"
+          />
     </div>
     </nav>
     </>
