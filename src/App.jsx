@@ -5,7 +5,7 @@ import Burger from "./components/Burger"
 import Slider from "./components/Slider"
 import { Button } from "@material-tailwind/react"
 import { CarouselWithContent } from "./components/CarouselWithContent"
-
+import Horror from "./components/Horror"
 
 function App() {
   return (
@@ -18,6 +18,7 @@ function App() {
       {/* <Slider/> */}
       {/* <Button/> */}
       <CarouselWithContent/>
+      <Horror/>
     </>
   )
 }
