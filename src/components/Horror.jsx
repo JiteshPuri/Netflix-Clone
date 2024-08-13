@@ -6,16 +6,16 @@ const Horror = () => {
         <div></div>
         <h1>Horror</h1>
         <div className=' grid  rounded-lg grid-cols-4 h-auto ' >
-            <div className='border rounded-xl mt-3 mr-3 object-cover border-[#413c3c]  ' >
+            <div className='border rounded-xl  mt-3 mr-8 object-cover border-[#413c3c]  ' >
                 <img src="/Rock.png" className=' rounded-xl shadow-2xl drop-shadow-sm shadow-[#5e5757] ' alt="" />
             </div>
-            <div className='border rounded-xl mt-3 mr-3 object-cover border-[#413c3c]  ' >
+            <div className='border rounded-xl mt-3 mr-8 object-cover border-[#413c3c]  ' >
                 <img src="/Rock.png" className=' rounded-xl shadow-2xl drop-shadow-sm shadow-[#5e5757] ' alt="" />
             </div>
-            <div className='border rounded-xl mt-3 mr-3 object-cover border-[#413c3c]  ' >
+            <div className='border rounded-xl mt-3 mr-8 object-cover border-[#413c3c]  ' >
                 <img src="/Rock.png" className=' rounded-xl shadow-2xl drop-shadow-sm shadow-[#5e5757] ' alt="" />
             </div>
-            <div className='border rounded-xl mt-3 mr-3 object-cover border-[#413c3c]  ' >
+            <div className='border rounded-xl mt-3 mr-8 object-cover border-[#413c3c]  ' >
                 <img src="/Rock.png" className=' rounded-xl shadow-2xl drop-shadow-sm shadow-[#5e5757] ' alt="" />
             </div>
 
